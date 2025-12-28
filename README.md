@@ -17,7 +17,11 @@
 - Git & GitHub
 
 ---
-
+📚 Relevant Coursework
+- Object-Oriented Programming (OOPs)
+- Operating Systems (OS)
+- Data Structures & Algorithms
+---
 ### 🚀 Projects
 - To-Do App with Focus Mode
 - Spotify UI Clone
