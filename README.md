@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./avataaars.png" width="180" alt="Parshant Avatar" />
+</p>
 ## Hi 👋 I'm Parshant
 
 🎓 BTech CSE Student  
