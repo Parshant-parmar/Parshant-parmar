@@ -1,4 +1,6 @@
-<img width="2400" height="2400" alt="my-notion-face-portrait" 
+<p align="center">
+  <img src="avatar.png" width="180" alt="Parshant avatar" />
+</p>
 ## Hi 👋 I'm Parshant
 
 🎓 BTech CSE Student  
