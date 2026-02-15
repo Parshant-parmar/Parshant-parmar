@@ -1,12 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e73df,50:6fb1fc,100:4facfe&height=220&section=header&text=Hi,%20I'm%20Parshant&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:60a5fa,100:93c5fd&height=200&section=header&text=Hi,%20I'm%20Parshant&fontSize=34&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
   <b> Java & Python Developer • DSA • Exploring Backend & AI</b>
 </p>
 
-## 🎯 2026 Focus
+---
+
+## 2026 Focus
 
 - Contributing to meaningful open-source projects  
 - Strengthening backend fundamentals  
@@ -15,22 +17,26 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github" />
 </p>
 
+<p align="center">
+  <sub>Primary focus: Java for DSA • Python for AI foundations</sub>
+</p>
+
 ---
 
-## 🧠 Engineering Direction
+## Engineering Direction
 
-Currently focused on:
+Currently working on:
 
-- Strengthening algorithmic thinking  
-- Building structured backend foundations  
-- Writing clean, maintainable code  
-- Growing toward impactful open-source contributions  
+- Improving algorithmic problem-solving skills  
+- Designing structured backend systems  
+- Writing clean and maintainable code  
+- Preparing for impactful open-source contributions  
 
 ---
 
