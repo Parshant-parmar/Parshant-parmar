@@ -10,16 +10,16 @@
 
 ---
 
-## 🚀 2026 Focus
+## 2026 Focus
 
-- Contributing to Open Source
-- Strengthening Backend Fundamentals
-- Practicing Data Structures & Algorithms
-- Exploring AI with Python (NumPy)
+- Contributing to open-source projects  
+- Strengthening backend fundamentals  
+- Practicing Data Structures & Algorithms  
+- Exploring AI concepts with Python (NumPy)  
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github" />
@@ -27,13 +27,15 @@
 
 ---
 
-## 🌟 Featured Project
+## Engineering Direction
 
-**To-Do App with Focus Mode**  
-A productivity-focused task manager built using HTML, CSS and JavaScript.
+Currently focused on:
 
-## Contribution Activity
+- Strengthening algorithmic thinking  
+- Building strong backend foundations  
+- Writing clean, maintainable code  
+- Growing towards meaningful open-source contributions  
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parshant-parmar&theme=github-compact&hide_border=true" />
-</p>
+---
+
+<sub>Focused on mastering fundamentals before scaling complexity.</sub>
