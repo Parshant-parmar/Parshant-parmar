@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,50:8f94fb,100:4facfe&height=220&section=header&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e73df,50:6fb1fc,100:4facfe&height=210&section=header&animation=fadeIn" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=1E3C72&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Parshant" />
