@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Engineering Student • Focused on Strong Fundamentals</b>
+  <b> Java & Python Developer • DSA • Exploring Backend & AI</b>
 </p>
 
 ## 🎯 2026 Focus
