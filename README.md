@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="./header.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e73df,50:6fb1fc,100:4facfe&height=220&section=header&text=Hi,%20I'm%20Parshant&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
   <b>Engineering Student • Focused on Strong Fundamentals</b>
 </p>
----
 
 ## 🎯 2026 Focus
 
