@@ -10,10 +10,12 @@
 
 ---
 
-## 🚀 Currently Working On
-- Data Structures & Algorithms (Recursion)
-- Backend development fundamentals
-- NumPy for AI-related computation
+## 🚀 2026 Focus
+
+- Contributing to Open Source
+- Strengthening Backend Fundamentals
+- Practicing Data Structures & Algorithms
+- Exploring AI with Python (NumPy)
 
 ---
 
@@ -25,12 +27,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🌟 Featured Project
+
+**To-Do App with Focus Mode**  
+A productivity-focused task manager built using HTML, CSS and JavaScript.
+
+---
+
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact" />
 </p>
