@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:60a5fa,100:93c5fd&height=190&section=header&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:60a5fa,100:93c5fd&height=200&section=header&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=34&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Parshant" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Parshant" />
 </p>
 
 <p align="center">
