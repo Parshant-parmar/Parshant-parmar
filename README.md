@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=111111&center=true&vCenter=true&width=600&lines=Parshant" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Hi,%20I'm%20Parshant%20—%20Building%20with%20Purpose&fontSize=32&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  Java & Python Developer • Focused on Backend & Strong Fundamentals
+  <b>Java & Python Developer • Focused on Strong Fundamentals</b>
 </p>
 
 ---
