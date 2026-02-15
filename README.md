@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="./avataaars.png" width="150" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=111111&center=true&vCenter=true&width=600&lines=Parshant" />
 </p>
 
-<h1 align="center">Parshant</h1>
-
 <p align="center">
-  Java & Python Developer • DSA • Exploring Backend & AI
+  Java & Python Developer • Focused on Backend & Strong Fundamentals
 </p>
 
 ---
@@ -21,7 +19,7 @@
 
 ## Tech Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github" />
 </p>
 
@@ -34,8 +32,10 @@ Currently focused on:
 - Strengthening algorithmic thinking  
 - Building strong backend foundations  
 - Writing clean, maintainable code  
-- Growing towards meaningful open-source contributions  
+- Growing toward meaningful open-source contributions  
 
 ---
 
-<sub>Focused on mastering fundamentals before scaling complexity.</sub>
+<p align="center">
+  <sub>Focused on mastering fundamentals before scaling complexity.</sub>
+</p>
