@@ -1,26 +1,27 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e73df,50:6fb1fc,100:4facfe&height=210&section=header&animation=fadeIn" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=1E3C72&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Parshant" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:60a5fa,100:93c5fd&height=190&section=header&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <b>Java & Python Developer • Focused on Strong Fundamentals</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=34&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Parshant" />
+</p>
+
+<p align="center">
+  <b>Engineering Student • Focused on Strong Fundamentals</b>
 </p>
 
 ---
 
-## 2026 Focus
+## 🎯 2026 Focus
 
-- Contributing to open-source projects  
+- Contributing to meaningful open-source projects  
 - Strengthening backend fundamentals  
 - Practicing Data Structures & Algorithms  
 - Exploring AI concepts with Python (NumPy)  
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github" />
@@ -28,14 +29,14 @@
 
 ---
 
-## Engineering Direction
+## 🧠 Engineering Direction
 
 Currently focused on:
 
 - Strengthening algorithmic thinking  
-- Building strong backend foundations  
+- Building structured backend foundations  
 - Writing clean, maintainable code  
-- Growing toward meaningful open-source contributions  
+- Growing toward impactful open-source contributions  
 
 ---
 
