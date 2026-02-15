@@ -1,66 +1,36 @@
 <p align="center">
-  <img src="./avataaars.png" width="180" alt="Parshant Avatar" />
+  <img src="./avataaars.png" width="150" />
 </p>
 
-<h1 align="center">Hi 👋 I'm Parshant</h1>
+<h1 align="center">Parshant</h1>
 
 <p align="center">
-  💻 Web Developer | Java DSA Learner | Exploring Backend & AI
+  Java & Python Developer • DSA • Exploring Backend & AI
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-🎓 BTech CSE Student  
-🧠 Practicing Data Structures & Algorithms in Java  
-🌱 Exploring Backend Development and AI with Python  
-🚀 Interested in building real-world systems and contributing to open source  
-
----
-
-## 🔄 Currently Working On
-
-- Solving DSA problems (currently learning recursion)
-- Learning backend development fundamentals
-- Exploring NumPy for AI-related computations
-- Improving code structure and GitHub projects
+## 🚀 Currently Working On
+- Data Structures & Algorithms (Recursion)
+- Backend development fundamentals
+- NumPy for AI-related computation
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
-- Java
-- Python
-- JavaScript
-
-### 🌐 Web
-- HTML
-- CSS
-
-### 🧰 Tools
-- Git
-- GitHub
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github" />
+</p>
 
 ---
 
-## 📚 Relevant Coursework
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
-- Operating Systems
+## 📊 GitHub Stats
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+</p>
 
-## 🚀 Projects
-- To-Do App with Focus Mode  
-- Spotify UI Clone  
-- JavaScript Games  
-
----
-
-![HTML](https://img.shields.io/badge/HTML-orange)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Java](https://img.shields.io/badge/Java-red)
-![Python](https://img.shields.io/badge/Python-blue)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default" />
+</p>
